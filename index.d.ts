@@ -1,6 +1,6 @@
 import * as logger from 'bunyan';
 
-export = BunyanLoggly;
+export = BunyanLoggly; 
 
 interface BunyanLoggly extends logger.WriteFn {}
 declare class BunyanLoggly {
