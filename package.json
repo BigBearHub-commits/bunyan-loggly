@@ -1,4 +1,4 @@
-{
+{ 
     "name": "bunyan-loggly",
     "version": "2.0.1",
     "description": "A bunyan stream to transport logs to loggly",
